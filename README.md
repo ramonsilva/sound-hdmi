@@ -22,4 +22,4 @@ Installation
 Other Thoughts
 --------------
 
-On the file with rules, I would like to pass my user, but when a I used o 'whoiam' didn't work, Do you know the reason?
+On the file with rules, I would like to pass my user, but when I did using 'whoiam' didn't work, Do you know the reason?
